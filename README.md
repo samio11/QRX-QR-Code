@@ -9,6 +9,12 @@ Perfect for small shops, pop‑up stalls, or anyone who needs a quick way to sha
 
 ---
 
+## QRX – Live Link
+
+https://qrx-qr-code.vercel.app
+
+---
+
 ## ✨ Features
 
 - **Live product catalog** with category filters (Apple, Samsung, Xiaomi).
